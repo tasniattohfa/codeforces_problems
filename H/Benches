@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    long long int n,x;
+    scanf("%lld",&n);
+ 
+    x=n*(n-1)*(n-2)*(n-3)*(n-4);
+    x=x*(x/120);
+    printf("%lld",x);
+ 
+    return 0;
+}
