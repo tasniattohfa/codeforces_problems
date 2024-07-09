@@ -11,6 +11,7 @@ the following **A** problem solutions:
 - [Anton and Letters]
 - [Bachgold Problem]
 - [Elections]
+- [Elephant]
 - [Quirky Quantifiers]
 - [Watermelon]
 - [Yet Another Two Integers Problem]
