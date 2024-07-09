@@ -15,6 +15,10 @@ the following **A** problem solutions:
 - [Watermelon]
 - [Yet Another Two Integers Problem]
 
+the following **B** problem solutions:
+
+- [Drinks]
+
 the following **H** problem solutions:
 
 - [Benches]
