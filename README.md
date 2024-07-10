@@ -13,6 +13,7 @@ the following **A** problem solutions:
 - [Domino piling]
 - [Elections]
 - [Elephant]
+- [Helpful Maths]
 - [Quirky Quantifiers]
 - [Watermelon]
 - [Yet Another Two Integers Problem]
