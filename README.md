@@ -9,6 +9,7 @@ The repository contains-
 the following **A** problem solutions:
 
 - [Anton and Letters]
+- [Arpa’s hard exam and Mehrdad’s naive cheat]
 - [Bachgold Problem]
 - [Dawid and Bags of Candies]
 - [Domino piling]
