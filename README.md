@@ -15,6 +15,7 @@ the following **A** problem solutions:
 - [Domino piling]
 - [Elections]
 - [Elephant]
+- [Fafa and his Company]
 - [Helpful Maths]
 - [Quirky Quantifiers]
 - [Watermelon]
