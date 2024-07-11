@@ -10,6 +10,7 @@ the following **A** problem solutions:
 
 - [Anton and Letters]
 - [Bachgold Problem]
+- [Dawid and Bags of Candies]
 - [Domino piling]
 - [Elections]
 - [Elephant]
