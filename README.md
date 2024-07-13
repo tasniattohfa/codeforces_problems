@@ -18,6 +18,7 @@ the following **A** problem solutions:
 - [Fafa and his Company]
 - [Helpful Maths]
 - [Quirky Quantifiers]
+- [The number of positions]
 - [Watermelon]
 - [Yet Another Two Integers Problem]
 
