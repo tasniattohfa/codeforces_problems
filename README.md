@@ -17,6 +17,7 @@ the following **A** problem solutions:
 - [Elephant]
 - [Fafa and his Company]
 - [Helpful Maths]
+- [HQ9+]
 - [Quirky Quantifiers]
 - [The number of positions]
 - [Watermelon]
