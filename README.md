@@ -22,6 +22,7 @@ the following **A** problem solutions:
 - [HQ9+]
 - [Quirky Quantifiers]
 - [The number of positions]
+- [Vus the Cossack and a Contest]
 - [Watermelon]
 - [Yet Another Two Integers Problem]
 
